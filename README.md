@@ -1,2 +1,2 @@
 # Batch-Scripts
-[RemoveEdge.bat](https://github.com/2ece788c-318a-42d8-884a-810cdf66a54a)
+[RemoveEdge.bat](https://github.com/PixelNetNeon/Batch-Scripts/blob/main/RemoveEdge.bat) (run as administrator)
